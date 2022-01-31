@@ -6,7 +6,7 @@ import time
 
 pyautogui.PAUSE = 1
 
-# acessar o windows para abrir o chrome euma nova aba
+# acessar o windows para abrir o chrome e uma nova aba
 pyautogui.press('winleft')
 pyautogui.write('chrome')
 pyautogui.press('enter')
